@@ -4,9 +4,9 @@
 # What’s This Project About?
 - I analyzed a dataset (youtube_channel_real_performance_analytics.csv) containing performance metrics for 364 videos from a YouTube channel. With 70 features like Views, Subscribers, Likes, New Comments, Shares, and Estimated Revenue (USD), the dataset offers a goldmine of information. My mission was to:
 
-## - Pinpoint what drives revenue: Are views the biggest factor, or do engagement metrics like likes and comments play a bigger role?
-## - Build a predictive model: Create a model to forecast Estimated Revenue (USD) based on video metrics.
-## - Offer practical advice: Provide clear, data-driven recommendations to help creators boost their channel’s growth and earnings.
+- Pinpoint what drives revenue: Are views the biggest factor, or do engagement metrics like likes and comments play a bigger role?
+- Build a predictive model: Create a model to forecast Estimated Revenue (USD) based on video metrics.
+- Offer practical advice: Provide clear, data-driven recommendations to help creators boost their channel’s growth and earnings.
 This project is a work in progress, and I’m excited to keep refining it with your feedback! So far, I’ve completed steps like correlation analysis, distribution analysis, and feature engineering, and I’m now working on building a predictive model.
 
 # Key Findings So Far
@@ -62,7 +62,7 @@ Here’s what’s in the repo right now:
 - README.md: This file, explaining the project and how to use it.
 
 # Progress and Next Steps
-## I’m actively working through the project, following a structured plan to make it robust and portfolio-worthy. Here’s where we are and what’s coming:
+I’m actively working through the project, following a structured plan to make it robust and portfolio-worthy. Here’s where we are and what’s coming:
 
 ## Completed:
 - Step 1: Added a correlation heatmap to identify features like Views and Subscribers that drive revenue.
