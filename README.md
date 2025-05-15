@@ -27,8 +27,8 @@ Want to explore the analysis yourself? Here’s how to get started:
 Copy
 git clone https://github.com/bunnycruz/YouTube-Performance-Analysis.git
 
--Or upload YouTube_Performance_Analysis.ipynb to Google Colab for a quick start.
--You can also open it in Jupyter Notebook or VS Code if you have Python set up locally.
+- Or upload YouTube_Performance_Analysis.ipynb to Google Colab for a quick start.
+- You can also open it in Jupyter Notebook or VS Code if you have Python set up locally.
 
 ## Grab the Dataset:
 - The dataset (youtube_channel_real_performance_analytics.csv) isn’t included in the repo due to its size and potential confidentiality.
