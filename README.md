@@ -89,9 +89,9 @@ It’s also a chance to connect with the data science community. If you’re a c
 
 # Contact Me
 Have questions, want the dataset, or just feel like chatting about data science? Reach out:
-## Email: [gauthampre123@gmail.com] 
-## GitHub: bunnycruz (update with your GitHub profile)
-## LinkedIn: Gautham Gowda (linkedin.com/in/gautham-madhukar)
+- Email: [gauthampre123@gmail.com] 
+- GitHub: bunnycruz (update with your GitHub profile)
+- LinkedIn: Gautham Gowda (linkedin.com/in/gautham-madhukar)
 If you need the dataset, drop me a quick email, and I’ll send it over (it’s about 364 rows, so it’s manageable). I’m also happy to help troubleshoot any issues running the notebook or discuss ideas for extending the analysis.
 
-# THANK YOU
+## THANK YOU
