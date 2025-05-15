@@ -31,9 +31,7 @@ git clone https://github.com/bunnycruz/YouTube-Performance-Analysis.git
 - You can also open it in Jupyter Notebook or VS Code if you have Python set up locally.
 
 ## Grab the Dataset:
-- The dataset (youtube_channel_real_performance_analytics.csv) isn’t included in the repo due to its size and potential confidentiality.
-- To get a copy, email me at [bunnycruz@example.com] (replace with your actual email). I’ll share it promptly!
-- Once you have it, place the .csv file in the same folder as the notebook (or update the file path in the code).
+- The dataset (youtube_channel_real_performance_analytics.csv)  place the .csv file in the same folder as the notebook (or update the file path in the code).
 
 ## Install Dependencies:
 - You’ll need these Python libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, isodate, and joblib.
