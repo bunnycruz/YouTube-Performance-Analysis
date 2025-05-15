@@ -1,5 +1,8 @@
 # YouTube Performance Analysis
 - Welcome to my YouTube Performance Analysis project! This repository houses a Jupyter notebook (YouTube_Performance_Analysis.ipynb) where I dive into real YouTube channel data to ncover what drives revenue and share practical tips for content creators. As an engineering student passionate about data science, I built this project to showcase my skills in data cleaning, exploratory data analysis (EDA), feature engineering, visualization, and predictive modeling. This model will help YouTubers optimize their channels while demonstrating my ability to turn raw data into actionable insights.
+  
+## License
+This project is licensed under the MIT License. See `LICENSE` for details.
 
 # What’s This Project About?
 - I analyzed a dataset (youtube_channel_real_performance_analytics.csv) containing performance metrics for 364 videos from a YouTube channel. With 70 features like Views, Subscribers, Likes, New Comments, Shares, and Estimated Revenue (USD), the dataset offers a goldmine of information. My mission was to:
